@@ -871,11 +871,13 @@ body {
 }
 
 .form-input {
+  outline: none;
   margin: 0 11px 0 0;
   padding-left: 13px;
 }
 
 .form-input:hover {
+  color: #5552E8;
   background-color: #fff;
   border-radius: 20px;
 }
